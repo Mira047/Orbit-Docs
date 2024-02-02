@@ -1,2 +1,5 @@
-# Orbit-Docs
-Documentation for Orbit Polaris.
+# Orbit Documentation
+
+This is a wiki for Orbit Polaris.
+
+Go to the `Wiki` tab to read it.
